@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anuka1940
 - 👀 I’m interested in software Engineering
-- 🌱 I’m currently learning C programming language
+- 🌱 I’m currently working on my specialization project(Meet_A_Doctor)
 - 💞️ I’m looking to collaborate on positive projects
 - 📫 How to reach me on 08103552427
 
